@@ -48,3 +48,7 @@ a:hover {
 .navbar-light .navbar-brand {
     color: red;
 }
+/* Afbeeldingen */
+figure img {
+    width: 100%;
+}
