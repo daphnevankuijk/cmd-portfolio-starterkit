@@ -4,6 +4,7 @@ html {
 }
 body {
     background-color: #ececec; 
+    font-family: 'Work Sans', sans-serif;
 }
 /* Buttons */
 .btn-primary {
