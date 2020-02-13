@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 <?php snippet('menu') ?>
 
-
+<main class="pt-5 pb-5">
 <section class="content article">
   <article>
     <?php snippet('intro') ?>
@@ -10,12 +10,13 @@
     <a href="<?= url('articles') ?>">&#8592; Back</a>
   </article>
 </section>
+</main>
 
 <?php
   if ($blogPage = page('articles')): ?>
-  <div class="row border-top">
+  <div class="row border-top pt-5 pb-5">
     <div class="col-12">
-      <h2 class="float-left">View more articles</h2>
+      <h2 class="float-left pb-4">View more articles</h2>
       <a class="float-right" href="<?= url('articles') ?>">View all articles &#8594;</a>
     </div>
     <?php foreach ($blogPage->children()->listed()->paginate(3) as $article): ?>

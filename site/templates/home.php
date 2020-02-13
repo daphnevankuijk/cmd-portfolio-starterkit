@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 
 <main>
-  <div class="row align-items-center">
+  <div class="row align-items-center pt-5 pb-5">
     <div class="col-12 col-lg-6">
       <h1><?= $page->introductiontitle() ?></h1>
       <p class="lead"><?= $page->introductiontext() ?></p>
@@ -14,9 +14,9 @@
   </div>
   <?php
   if ($projectsPage = page('projects')): ?>
-  <div class="row border-top">
+  <div class="row border-top pt-5 pb-5">
     <div class="col-12">
-      <h2 class="float-left">My work</h2>
+      <h2 class="float-left pb-4">My work</h2>
       <a class="float-right" href="<?= $site->page('projects') ?>">View all projects &#8594;</a>
     </div>
     <?php foreach ($projectsPage->children()->listed()->paginate(3) as $project): ?>
