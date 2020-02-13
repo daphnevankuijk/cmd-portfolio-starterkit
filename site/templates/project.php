@@ -37,7 +37,7 @@
       <a class="float-right" href="<?= url('projects'); ?>">View all projects &#8594;</a>
     </div>
     <?php foreach ($projectsPage->children()->listed()->paginate(3) as $project): ?>
-    <div class="col-12 col-lg-4">
+    <div class="col-12 col-lg-4 mb-4">
       <div class="card h-100">
       <img src="<?= $project->images()->findBy("template", "thumbnail")->url(); ?>" class="card-img-top" alt="thumbnail" />
       <div class="card-body">

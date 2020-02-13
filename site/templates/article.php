@@ -20,7 +20,7 @@
       <a class="float-right" href="<?= url('articles') ?>">View all articles &#8594;</a>
     </div>
     <?php foreach ($blogPage->children()->listed()->paginate(3) as $article): ?>
-    <div class="col-12 col-lg-4">
+    <div class="col-12 col-lg-4 mb-4">
       <div class="card h-100">
       <img src="<?= $article->images()->findBy("template", "thumbnail")->url(); ?>" class="card-img-top" alt="thumbnail" />
       <div class="card-body">
