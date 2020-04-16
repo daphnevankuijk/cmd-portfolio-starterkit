@@ -2,7 +2,9 @@ Title: Daphne van Kuijk
 
 ----
 
-Logo: 
+Logo:
+
+- 00.jpg
 
 ----
 

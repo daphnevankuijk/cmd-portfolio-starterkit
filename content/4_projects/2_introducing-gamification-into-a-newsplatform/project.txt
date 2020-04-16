@@ -59,14 +59,14 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/sieraden-en-woonaccesoires.jpg",
-            "src": "http://192.168.64.2/media/pages/projects/introducing-gamification-into-a-newsplatform/940628530-1587041135/sieraden-en-woonaccesoires.jpg",
-            "id": "projects/introducing-gamification-into-a-newsplatform/sieraden-en-woonaccesoires.jpg",
-            "ratio": 1,
+            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/armbanden.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/introducing-gamification-into-a-newsplatform/751654635-1587044735/armbanden.jpg",
+            "id": "projects/introducing-gamification-into-a-newsplatform/armbanden.jpg",
+            "ratio": 0.85158150851581504436893510501249693334102630615234375,
             "caption": ""
         },
         "content": "",
-        "id": "_63lhkqhng",
+        "id": "_6w0aaz7jr",
         "type": "image"
     }
 ]
