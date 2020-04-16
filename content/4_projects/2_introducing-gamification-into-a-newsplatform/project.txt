@@ -1,0 +1,88 @@
+Title: CJ Jewels
+
+----
+
+Roles: Ontwerper, sieraden maker en eigenaar webshop
+
+----
+
+Duration: Augustus 2011 - Oktober 2013
+
+----
+
+Clients: 
+
+----
+
+Deliverables: Patronentekenen, sieraden maken, webshop bijhouden
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Ik heb als hobby, sieraden maken en omdat ik dagelijks zo veel vraag kreeg waar ik de armbandjes die ik droeg vandaan had besloot ik een webshop te openen.",
+        "id": "_C0nMuFJR0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Met als doel van mijn hobby, mijn werk te maken.",
+        "id": "_kezimgo9o",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ik maakte al mij sieraden zelf, waar veel tijd in ging zitten. Daarnaast verkocht ik de sieraden in de webshop, en hield de voorraden bij. Wanneer er veel vraag was naar een product, moest ik deze bijmaken. Dagelijks verstuurden ik bestellingen via de post.",
+        "id": "_fmpu95t4h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Doordat ik zelf de sieraden met de hand maakten, had ik weinig vrije tijd meer.",
+        "id": "_lhjcmfgn8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Als iets je passie is probeer het gewoon!",
+        "id": "_lc4ykq1g8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ik zou in het vervolg de webshop uitbesteden, zodat ik niet alles alleen hoef te doen en de meeste tijd aan het maken van sieraden en accessoires besteed. Ik maak nog steeds sieraden maar niet meer voor de verkoop.",
+        "id": "_erybenys6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/sieraden-en-woonaccesoires.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/introducing-gamification-into-a-newsplatform/940628530-1587041135/sieraden-en-woonaccesoires.jpg",
+            "id": "projects/introducing-gamification-into-a-newsplatform/sieraden-en-woonaccesoires.jpg",
+            "ratio": 1,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_63lhkqhng",
+        "type": "image"
+    }
+]
+
+----
+
+Textarea:
+
+## Introduction
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed.
+
+## Research
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed.
+
+## Anything else
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed.

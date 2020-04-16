@@ -1,0 +1,100 @@
+Title: De Mantelzone
+
+----
+
+Roles: Interaction design, visual design, usability research & testing
+
+----
+
+Duration: 
+
+----
+
+Clients: Online Department
+
+----
+
+Deliverables: Conceptposter
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_n69m23272",
+        "type": "hr"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Situatie </strong>\u201cHoe kunnen we ouderen geholpen laten worden door (professionele) mantelzorgers, vrienden en familie om langer thuis te wonen?\u201d",
+        "id": "_0q9qbohbe",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Taak</strong> Een concept op dat ouderen in staat stelt om, met hulp van mantelzorgers, langer thuis te blijven wonen.",
+        "id": "_mIF90IGBU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Acties</strong> Deskresearch, interviews, insight wall, design principles, statement cards, persona\u2019s, Ideation Pressure Cooker (woordenslang, superheld, directe analoog, HKW), idea wall.",
+        "id": "_3vAWkLvmj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Resultaat</strong> \u2018Laat verplichting weer liefde worden, zoek verbinding en steun.\u2019",
+        "id": "_NjBlypqpL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Uit onderzoek is gebleken dat veel mantelzorgers het lastig vinden om zorg te verlenen uit liefde in plaats van verplichting. Er komt veel druk te staan op iemand die voor een ander moeten zorgen. Ondanks dat het geen verplichting is, voelt het vaak wel zo. Deze mantelzorgers hebben behoefte aan steun en verbinding, doordat zij zich niet begrepen voelen en daardoor het gevoel hebben dat ze er alleen voor staan. De zorg voor een ander kost veel tijd en dit kan tevens resulteren in sociale isolatie. Dit kan zorgen voor eenzaamheid en/of depressie.",
+        "id": "_oYN7LWugv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Het platform",
+        "id": "_geg0c3W6H",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mensen laten voelen dat zij er niet alleen voor staan en dat je nog steeds plezier kan hebben in de zorg voor een ander. Sterker nog, er zijn genoeg mantelzorgers die in dezelfde situatie zitten. Door een community/platform te cre\u00ebren waarbij mantelzorgers met elkaar in contact komen, verplichting weer liefde laten worden. Met behulp van dit platform kan men eenvoudig hun ervaring delen en steun krijgen van elkaar. Zo is het platform een goede uitlaatklep voor emoties te cre\u00ebren en voor meer tijd om te ontspannen en leuke dingen te doen.",
+        "id": "_ejEFBlKio",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Reflectie </strong>Ik heb geleerd om te gaan met studenten die minder gemotiveerd zijn als mij, hoe je een presentatie poster moet maken, nieuwe methodes zoals Statement Cards, De Superheld, en om te gaan met kritiek.",
+        "id": "_81q6yr8qf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Transfer</strong> Een strakkere planning maken, tijdens dit project liep ik vaak achter de feiten aan. Een betere planning had voor minder stress gezorgd",
+        "id": "_gBHnHEnxp",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Textarea:
+
+## Introduction
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum set.
+
+## Research
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed.
+
+## Anything else
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed.

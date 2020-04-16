@@ -1,25 +1,16 @@
-Title: Robin Sinke
+Title: Daphne van Kuijk
 
 ----
 
-Logo:
-
-- robinsinke.jpeg
+Logo: 
 
 ----
 
-Email: r.sinke@hr.nl
+Email: 0965653@hr.nl
 
 ----
 
-Social:
-
-- 
-  platform: Twitter
-  url: https://twitter.com/robzooi
-- 
-  platform: LinkedIn
-  url: https://www.linkedin.com/in/robinsinke/
+Social: 
 
 ----
 
