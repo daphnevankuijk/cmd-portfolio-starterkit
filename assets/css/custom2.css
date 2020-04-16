@@ -5,7 +5,7 @@ h1
 body
 {
     font-family: 'Bellota', cursive;
-    background-color: white;
+    background-color: green;
 }
 
 .btn-primary {
@@ -42,3 +42,4 @@ body
 a {
     color: peachpuff;
 }
+
