@@ -1,0 +1,106 @@
+Title: Nieuws voor jou ->winnend concept
+
+----
+
+Roles: Onderzoeker, Visual Designer
+
+----
+
+Duration: September 2019 - Februari 2020
+
+----
+
+Clients: AD
+
+----
+
+Deliverables: Deskresearch, Styletiles, Styleguide
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Situatie</strong> <br>De papieren krant verdwijnt door digitalisering. De meeste krantenlezers tegenwoordig zijn gemiddeld 55+. Ook online wordt het AD vooral gelezen door oudere mensen en bereikt het nieuws de jongere generatie niet genoeg.",
+        "id": "_n969k9opt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Taak<br></strong>Jongeren tussen de 8 en25 jaar willen binden aan hun verhalen en titels. Het AD wil daarnaast ook weten waarin de jeugd ge\u00efnteresseerd is, waarover zij nieuws willen consumeren en op welke manier zij dit willen ontvangen.",
+        "id": "_dwwca4biq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Acties</strong> <br>- <strong>Onderzoek</strong> gedaan naar de doelgroep (12 t/m 15 jaar);<br>- Consumeren zij nieuws? Zo ja op welke manier?<br>- Welke platforms/social media gebruikt de doelgroep?<br>- Onderzoek gedaan naar TikTok (dit is een platform waar kansen liggen, omdat de doelgroep dagelijks te vinden is op deze app).<br><br>- <strong>Filmpjes opgenomen</strong> met relevante artikelen",
+        "id": "_2nTit1MSj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/filmpjes.png",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/2830999925-1587117079/filmpjes.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/filmpjes.png",
+            "ratio": 1.6999999999999999555910790149937383830547332763671875,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_ps3df8k9t",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "En deze op TikTok geplaatst<br><br>- Een <strong>Styletile</strong> gemaakt",
+        "id": "_w6owoml0o",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/styletile.png",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/1394738159-1587117557/styletile.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/styletile.png",
+            "ratio": 1.419031719532554358664810933987610042095184326171875,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_a7v7uxe3r",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Door de kleuren in een nieuw jasjes te steken, kwamen we naar de doelgroep toe.<br><br>- <strong>Styleguide</strong> gemaakt<br>Een draaiboek voor het AD, waar alles in opgenomen is zoals; de kleuren, typografie, videobewerking, keuze van artikelen enz.",
+        "id": "_uome4rpix",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/styleguide.png",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/3582215348-1587118420/styleguide.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/styleguide.png",
+            "ratio": 1.745379876796714579967328972998075187206268310546875,
+            "caption": ""
+        },
+        "content": "<strong>Resultaat</strong>",
+        "id": "_xr0nenk2b",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Resultaat<br></strong>Door de filmpjes te posten op een kanaal wat door de doelgroep veel gebruikt wordt komen wij vanuit het AD naar hen toe en zorgt dit ervoor dat de doelgroep verbonden wordt aan het nieuws. Deze video\u2019s zijn amuserend en informatief voor de doelgroep en dienen als een instap om in aanraking te komen met het AD (want dit zijn ze<br>nu helemaal niet) en om ervoor te zorgen dat onze doelgroep meer met het nieuws bezig is. Door de vele prikkels en relevante nieuwsitems die impact hebben op hun leefwereld hebben wij bereikt dat onze doelgroep de video\u2019s interessant vindt en grappig. Uit eindelijk heeft dit geleid tot <strong>het winnende concept!<br><br>Reflectie</strong> <br>De samenwerking verliep niet altijd vlekkeloos, maar door voldoende inzet en gemotiveerd te blijven, is er uiteindelijk een goed concept neergezet, waar het AD verder mee kan en wil!",
+        "id": "_kQukXaJy1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_Ct4IluJfb",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Textarea: 

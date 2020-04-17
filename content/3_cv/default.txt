@@ -6,6 +6,6 @@ Text:
 
 (image: cv.jpg)
 
-(image: cv-2.jpg)
+(image: cv2.png)
 
-(image: cv-3.jpg)
+(image: cv-3.jpg.png)

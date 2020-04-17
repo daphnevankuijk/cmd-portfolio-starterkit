@@ -2,11 +2,11 @@ Title: De Mantelzone
 
 ----
 
-Roles: Interaction design, visual design, usability research & testing
+Roles: Visual design, Usability research & testing
 
 ----
 
-Duration: 
+Duration: November 2018 - Februari 2019
 
 ----
 
@@ -29,25 +29,37 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<strong>Situatie </strong>\u201cHoe kunnen we ouderen geholpen laten worden door (professionele) mantelzorgers, vrienden en familie om langer thuis te wonen?\u201d",
+        "content": "<strong>Situatie <br></strong>\u201cHoe kunnen we ouderen geholpen laten worden door (professionele) mantelzorgers, vrienden en familie om langer thuis te wonen?\u201d",
         "id": "_0q9qbohbe",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<strong>Taak</strong> Een concept op dat ouderen in staat stelt om, met hulp van mantelzorgers, langer thuis te blijven wonen.",
+        "content": "<strong>Taak</strong> <br>Een concept op dat ouderen in staat stelt om, met hulp van mantelzorgers, langer thuis te blijven wonen.",
         "id": "_mIF90IGBU",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<strong>Acties</strong> Deskresearch, interviews, insight wall, design principles, statement cards, persona\u2019s, Ideation Pressure Cooker (woordenslang, superheld, directe analoog, HKW), idea wall.",
+        "content": "<strong>Acties</strong> <br>Deskresearch, interviews, insight wall, design principles, statement cards, persona\u2019s, Ideation Pressure Cooker (woordenslang, superheld, directe analoog, HKW), idea wall.",
         "id": "_3vAWkLvmj",
         "type": "paragraph"
     },
     {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/insight-wall.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/3548508189-1587119258/insight-wall.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/insight-wall.jpg",
+            "ratio": 0.56216931216931220749444264583871699869632720947265625,
+            "caption": "Insight wall"
+        },
+        "content": "",
+        "id": "_eii19r3w2",
+        "type": "image"
+    },
+    {
         "attrs": [],
-        "content": "<strong>Resultaat</strong> \u2018Laat verplichting weer liefde worden, zoek verbinding en steun.\u2019",
+        "content": "<strong>Resultaat</strong> <br>\u2018Laat verplichting weer liefde worden, zoek verbinding en steun.\u2019",
         "id": "_NjBlypqpL",
         "type": "paragraph"
     },
@@ -71,13 +83,13 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<strong>Reflectie </strong>Ik heb geleerd om te gaan met studenten die minder gemotiveerd zijn als mij, hoe je een presentatie poster moet maken, nieuwe methodes zoals Statement Cards, De Superheld, en om te gaan met kritiek.",
+        "content": "<strong>Reflectie <br></strong>Ik heb geleerd om te gaan met studenten die minder gemotiveerd zijn als mij, hoe je een presentatie poster moet maken, nieuwe methodes zoals Statement Cards, De Superheld, en om te gaan met kritiek.",
         "id": "_81q6yr8qf",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<strong>Transfer</strong> Een strakkere planning maken, tijdens dit project liep ik vaak achter de feiten aan. Een betere planning had voor minder stress gezorgd",
+        "content": "<strong>Transfer</strong> <br>Een strakkere planning maken, tijdens dit project liep ik vaak achter de feiten aan. Een betere planning had voor minder stress gezorgd",
         "id": "_gBHnHEnxp",
         "type": "paragraph"
     }

@@ -1,0 +1,148 @@
+Title: CJ Jewels
+
+----
+
+Roles: Ontwerper, sieraden maker en eigenaar webshop
+
+----
+
+Duration: Augustus 2011 - Oktober 2013
+
+----
+
+Clients: 
+
+----
+
+Deliverables: Patronentekenen, sieraden maken, webshop bijhouden
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Situatie</strong>",
+        "id": "_8yvty7uqz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ik heb als hobby, sieraden maken en omdat ik dagelijks zo veel vraag kreeg waar ik <br>de armbandjes die ik droeg vandaan had besloot ik een webshop te openen.",
+        "id": "_yh9ttzr9l",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Taak<br></strong>Met als doel van mijn hobby, mijn werk te maken.",
+        "id": "_0RQuppoa3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Acties</strong> <br>Ik maakte al mij sieraden zelf, waar veel tijd in ging zitten. Daarnaast verkocht ik de <br>sieraden in de webshop, en hield de voorraden bij. Wanneer er veel vraag was naar <br>een product, moest ik deze bijmaken. Dagelijks verstuurden ik bestellingen via de post.",
+        "id": "_qrjxyhnjw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Resultaat</strong> <br>Doordat ik zelf de sieraden met de hand maakten, had ik weinig vrije tijd meer.",
+        "id": "_vFkXiYLZK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Reflectie</strong> <br>Als iets je passie is probeer het gewoon!",
+        "id": "_bpo8szEHK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Transfer</strong> <br>Ik zou in het vervolg de webshop uitbesteden, zodat ik niet alles alleen hoef te doen <br>en de meeste tijd aan het maken van sieraden en accessoires besteed. Ik maak nog <br>steeds sieraden maar niet meer voor de verkoop.",
+        "id": "_5lf4fey3x",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_vdevu2q11",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_k98j6bs6q",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_3obz824io",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/cj-jewels2.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/introducing-gamification-into-a-newsplatform/4182515198-1587114498/cj-jewels2.jpg",
+            "id": "projects/introducing-gamification-into-a-newsplatform/cj-jewels2.jpg",
+            "ratio": 1,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_dmarz2h1s",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_gico0rjca",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_kezimgo9o",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_fmpu95t4h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_c37taqyck",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_lc4ykq1g8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_erybenys6",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Textarea:
+
+## Introduction
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed.
+
+## Research
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed.
+
+## Anything else
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed.
